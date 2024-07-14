@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943827568635",
+    "project_id": "sketchapp-58768",
+    "storage_bucket": "sketchapp-58768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943827568635:android:d1f18fdafa8b2eac7c2d5e",
+        "android_client_info": {
+          "package_name": "com.example.sketch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBInD8mcktqeHdl7MBkwXy4KVXJhtMc4aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
